@@ -1,0 +1,5 @@
+title ; listings:titleru
+surface ; listings:surface
+bedrooms ; listings:nbchambr
+land ; listings:land
+prix ; tarifsvente:tot ; listings:id:id

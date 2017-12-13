@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
+     <generation-date>2010-12-11T12:00:00+04:00</generation-date>   
+ 
+<offer internal-id="1245">         
+<type>sale</type>         
+<property-type>living</property-type>         
+<category>flat</category>   
+<deal-status>sale</deal-status>               
+<creation-date>2017-11-13T12:32:45+04:00</creation-date>
+<last-update-date>2017-12-04T12:32:45+04:00</last-update-date>
+<location>             
+  <country>France</country>             
+  <locality-name>Cannes</locality-name>             
+  <address>Croisette</address>    
+</location>         
+<sales-agent>
+<category>agency</category>             
+  <phone>+33788050505</phone>
+</sales-agent>     
+<price>     
+  <value>1300000</value>        
+  <currency>EUR</currency> 
+</price>
+<area>     
+  <value>64</value>     
+  <unit>sq. m</unit> 
+</area>
+<land>1200</land>
+<terrace>21</terrace> 
+<rooms>4</rooms>
+<rooms-offered>4</rooms-offered>
+<floor>8</floor>
+<bedroom>3</bedroom>
+<bathroom>3</bathroom>
+<garage>1</garage>
+<parking>1</parking>
+<images>
+	<img1>http://images.fr/cnjrzhlfbkje1.jpg</img1>
+	<img2>http://images.fr/cnjrzhlfbkje2.jpg</img2>
+	<img3>http://images.fr/cnjrzhlfbkje3.jpg</img3>
+</images> 
+</offer> 
+
+<offer internal-id="123215">         
+<type>sale</type>         
+<property-type>living</property-type>         
+<category>flat</category>   
+<deal-status>sale</deal-status>               
+<creation-date>2017-11-13T12:32:45+04:00</creation-date>
+<last-update-date>2017-12-04T12:32:45+04:00</last-update-date>
+<location>             
+  <country>France</country>             
+  <locality-name>Cannes</locality-name>             
+  <address>Croisette</address>    
+</location>         
+<sales-agent>
+<category>agency</category>             
+  <phone>+33788050505</phone>
+</sales-agent>     
+<price>     
+  <value>1800000</value>        
+  <currency>EUR</currency> 
+</price>
+<area>     
+  <value>94</value>     
+  <unit>sq. m</unit> 
+</area>
+<land>1200</land>
+<terrace>21</terrace> 
+<rooms>4</rooms>
+<rooms-offered>4</rooms-offered>
+<floor>8</floor>
+<bedroom>4</bedroom>
+<bathroom>3</bathroom>
+<garage>1</garage>
+<parking>1</parking>
+<images>
+	<img1>http://images.fr/cnjrzhbkje1.jpg</img1>
+	<img2>http://images.fr/cnjrzhbkje2.jpg</img2>
+	<img3>http://images.fr/cnjrzhbkje3.jpg</img3>
+</images> 
+</offer> 
+
+</realty-feed>

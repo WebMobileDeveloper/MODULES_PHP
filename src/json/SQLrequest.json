@@ -1,0 +1,1 @@
+"SELECT listings.titleru AS title,tarifsvente.id AS id,listings.surface AS surface,listings.nbchambr AS bedrooms,listings.land AS land,tarifsvente.tot AS prix FROM listings LEFT JOIN tarifsvente ON tarifsvente.id = listings.id WHERE listings.id IN(1206,1263,1285,1287,1295,327) ;"
